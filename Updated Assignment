@@ -1,4 +1,1 @@
-import google.generativeai as genai
-GOOGLE_API_KEY = 'AIzaSyBI5kQ-xnU3uMkBTrTxUhDZdLetHG47poI'
-genai.configure(api_key=GOOGLE_API_KEY)
 
